@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  width: 100%;
+  background-color: rgb(96, 39, 149);
+  padding: 20px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 300px;
+}
+ul li a {
+  color: #fff;
+  text-decoration: none;
+}
