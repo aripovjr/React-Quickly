@@ -18,3 +18,10 @@ ul li a {
   color: #fff;
   text-decoration: none;
 }
+.active {
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  opacity: 0.9;
+  background-color: blueviolet;
+}
